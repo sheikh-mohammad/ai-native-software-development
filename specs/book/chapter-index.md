@@ -91,7 +91,7 @@ Core language skills: production-quality Python with AIDD
 | 24 | Object-Oriented Programming Part I | `24-oop-part-1/` | 📋 Planned |
 | 25 | Object-Oriented Programming Part II | `25-oop-part-2/` | 📋 Planned |
 | 26 | Meta Classes and Data Classes | `26-metaclasses-dataclasses/` | 📋 Planned |
-| 27 | Pydantic and Generics | `27-pydantic-generics/` | 📋 Planned |
+| 27 | Pydantic and Generics | `27-pydantic-generics/` | ✅ Implemented |
 | 28 | Asyncio | `28-asyncio/` | 📋 Planned |
 | 29 | CPython and GIL | `29-cpython-gil/` | 📋 Planned |
 
