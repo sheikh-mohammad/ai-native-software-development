@@ -46,7 +46,7 @@ Reference this document when naming and organizing chapter files. Use the chapte
     - 4 lessons written, but requires updates for new standards
     - Issues: Lesson closure violations, Part 5 terminology in Part 4
     - Technical review passed originally, but pre-dates updated standards
-- 📋 **Planned** (36 chapters): Chapters 20, 22-29, 34-57 are planned but not yet created
+- 📋 **Planned** (35 chapters): Chapters 20, 22-27, 29, 34-57 are planned but not yet created
 
 ---
 
@@ -108,9 +108,9 @@ Core language skills: production-quality Python with AIDD
 | 23 | Math, Date Time Calendar | `23-math-datetime-calendar/` | 📋 Planned |
 | 24 | Object-Oriented Programming Part I | `24-oop-part-1/` | ✅ Implemented & Validated |
 | 25 | Object-Oriented Programming Part II | `25-oop-part-2/` | ✅ Implemented & Validated |
-| 26 | Meta Classes and Data Classes | `26-metaclasses-dataclasses/` | 📋 Planned |
-| 27 | Pydantic and Generics | `27-pydantic-generics/` | ✅ Implemented |
-| 28 | Asyncio | `28-asyncio/` | 📋 Planned |
+| 26 | Meta Classes and Data Classes | `26-metaclasses-dataclasses/` | ✅ Implemented |
+| 27 | Pydantic and Generics | `27-pydantic-generics/` | ✅ Implemented & Validated |
+| 28 | Asyncio | `28-asyncio/` | ✅ Implemented & Validated |
 | 29 | CPython and GIL | `29-cpython-gil/` | 📋 Planned |
 
 ---
